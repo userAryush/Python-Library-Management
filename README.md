@@ -1,4 +1,2 @@
 # Python-Library-Management
-This is my first repository.
-<br>
-Author - Aryush Khatri 
+<p>This is a simple showcase of usage of python dictionaries</p>
